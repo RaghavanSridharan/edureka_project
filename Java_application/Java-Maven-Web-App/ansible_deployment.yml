@@ -43,7 +43,7 @@
    - name: start the container
      docker_container:
       name: rcapps
-      image: "rajeshchaky/rcapps:{{DOCKER_TAG}}"
+      image: "basics89/edureka_project:{{DOCKER_TAG}}"
       state: started
       published_ports:
         - 0.0.0.0:8181:8181
