@@ -1,3 +1,2 @@
 [dev]
-#172.31.8.88 ansible_ssh_pass=123 ansible_ssh_user=root
-192.168.0.102
+172.31.18.253 ansible_ssh_pass=today@12345 ansible_ssh_user=devops
