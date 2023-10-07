@@ -1,2 +1,2 @@
 [dev]
-172.31.18.253 ansible_ssh_pass=today@12345 ansible_ssh_user=devops
+172.31.18.253
